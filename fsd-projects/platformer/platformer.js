@@ -49,14 +49,16 @@ createCollectable("diamond", 1133, 350)
 createCollectable("diamond", 1133, 250)
 createCollectable("diamond", 1133, 150)
 createCollectable("max", 1366, 150)
-createCollectable("steve", 300, 100)
+createCollectable("kennedi", 300, 100)
 createCollectable("diamond", 580, 450)
 createCollectable("steve", 400, 350)
 
     // TODO 4 - Create Cannons
-
-
-    
+ createCannon('bottom', 1275, 2000)
+ createCannon('bottom', 1325, 2000)
+ createCannon('left', 75, 2500)
+createCannon('bottom', 1100, 2000)
+createCannon('bottom', 540, 950)
     
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
